@@ -12,6 +12,12 @@ In the project directory, you can run:
 
 ### `yarn start or npm start`
 
+A must have:
+
+### `Be sure to have an openweather API key`
+### `set up a .env file in the root directory`
+### `Add this: REACT_APP_API_KEY="API KEY` or use `REACT_APP_API_KEY=ee71ee46a300ec9188c6c4b27f23d5fb` 
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
